@@ -37,7 +37,7 @@
         </option>
         <option>
           <name>MacFile</name>
-          <state>D:\EIE\eiefw3\nRF51422\exec.mac</state>
+          <state>$PROJ_DIR$\..\exec.mac</state>
         </option>
         <option>
           <name>MemOverride</name>
@@ -61,7 +61,7 @@
         </option>
         <option>
           <name>CExtraOptions</name>
-          <state>- -drv_vector_table_base=0x0</state>
+          <state>--drv_vector_table_base=0x0</state>
         </option>
         <option>
           <name>CFpuProcessor</name>
